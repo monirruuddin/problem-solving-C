@@ -8,22 +8,6 @@ https://www.urionlinejudge.com.br/judge/en/profile/423965
 <div></div> <br>
 
 
-<h3>Using tools</h3>
-    
-<h3> Technology I have used.. </h3>
-<ul>
-  <li>HTMl</li>
-  <li>CSS</li>
-  <li>JQUERY</li>
-  <li>JAVASCRIPT</li>
-  <li>BOOTSTRAP 4.1</li>
-</ul>
-<h3>JS Plugins I have used.. </h3>
-<ul>
-  <li>Slick slider</li>
-  <li>tab</li>
-</ul>
-
 <img src="https://moniruddin.com/all-project/all-screenshot/problm-solving/uri.png" alt="Green Baku" />
 <br>
 <img src="https://moniruddin.com/all-project/all-screenshot/problm-solving/uri-2.png" alt="Green Baku" />
