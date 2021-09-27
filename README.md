@@ -1,6 +1,6 @@
 # problem-solving-C
 
-<h3>It was a great journey with c programming.C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions</h3>
+<p>It was a great journey with c programming.C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions</p>
 
 <h3>Here is my online uri judge Profile link</h3>
 https://www.urionlinejudge.com.br/judge/en/profile/423965
